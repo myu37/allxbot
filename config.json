@@ -1,0 +1,24 @@
+{
+  "ownerNumber": "62xxx@s.whatsapp.net",
+  "ownerName": "all",
+  "botName": "allxBot",
+  "packname": "follow",
+  "author": "@allx",
+  "pathimg": "./media/elaina.jpg",
+  "apikey": {
+    "caliph": "caliphkey",
+    "miko": "Mikokey"
+  },
+  "hmm": {
+    "tiktok": "https://tiktok.com/@mysf02",
+    "ig": "https://instagram.com/allzz_09",
+    "linkmenu": "https://chat.whatsapp.com/KShSydBXuPBIx0eeWgl7gY"
+  }, 
+  }
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 35,
+	"user": 15
+  }
+}
