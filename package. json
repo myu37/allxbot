@@ -1,0 +1,29 @@
+{
+  "name": "allxbt",
+  "version": "1.0.0",
+  "description": "Simple whatsapp bot with multi device.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "allcoders",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "@whiskeysockets/baileys": "latest",
+    "awesome-phonenumber": "^2.64.0",
+    "qrcode-terminal": "^0.12.0",
+    "axios": "^0.24.0",
+    "api-dylux": "^1.4.4",
+    "chalk": "^4.1.2",
+    "clui": "^0.3.6",
+    "caliph-api": "^0.8.3",
+    "fetch": "^1.1.0",
+    "figlet": "^1.5.2",
+    "file-type": "^16.5.3",
+    "fluent-ffmpeg": "^2.1.2",
+   7
